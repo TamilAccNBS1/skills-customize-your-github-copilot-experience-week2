@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create modern REST APIs using FastAPI framework with request validation and HTTP operations",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-03-17"
     }
   ]
 }
